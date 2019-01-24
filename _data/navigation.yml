@@ -13,7 +13,7 @@ main:
     url: /portfolio/
  
  - title: "Course Work"
-    url: /cw/
+    url: /_cw/
     
   - title: "CV"
     url: /cv/
