@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ghazanfar Ali"
-  avatar           : <img src="ghazanfar.png" alt="">
+  avatar           : "https://ghazanfarttu.github.io/ghazanfar.png"
   bio              : "Research Assistant, Computer Science Dept."
   location         : "Lubbock, Texas"
   employer         : Texas Tech University
